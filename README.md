@@ -1,5 +1,5 @@
 # NLP Workshop
-This year, School of AI Algiers organize the first edition of AI Day where participants can attend an NLP Workshop. This is the starter repository for all the attendees. The practice part of the workshop will aim to generate movie scripts using the scripts of Avengers : Infinity War and Avengers Endgame. 
+This year, School of AI Algiers organizes the first edition of AI Day where participants can attend an NLP Workshop. This is the starter repository for all the attendees. The practice part of the workshop will aim to generate movie scripts using the scripts of Avengers : Infinity War and Avengers Endgame. 
 
 # Folder Structure  
 * aiday_movie_script_generation.ipynb : workshop notebook. 
