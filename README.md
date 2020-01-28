@@ -1,6 +1,8 @@
 # NLP Workshop
 This year, School of AI Algiers organizes the first edition of AI Day where participants can attend an NLP Workshop. This is the starter repository for all the attendees. The practice part of the workshop will aim to generate movie scripts using the scripts of Avengers : Infinity War and Avengers Endgame. 
 
+Inspired by [Udacity Nanodegree Project of generating Seinfield TV Shows](https://www.udacity.com/). 
+
 <p align="center">
   <img src="script_analysis.png" width="350" title="Infinity War : Script Analysis">
 </p>
